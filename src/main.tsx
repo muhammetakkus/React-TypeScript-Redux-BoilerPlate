@@ -18,10 +18,3 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     </Provider>
   </React.StrictMode>
 )
-
-/**
- * react-toastify + ToastContainer
- * Error Boundrary
- * NotificationLogger
- * Loading components
- */
